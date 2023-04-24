@@ -20,3 +20,18 @@ $100 billion annually by 2020 from all sources to address the needs of developin
 
 5.	Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities
 * Acknowledging that the United Nations Framework Convention on Climate Change is the primary international, intergovernmental forum for negotiating the global response to climate change.
+
+## Functions
+
+We were required to create at least five functions. Therefore, we have divided them into five different classes and distrubuted works among members of this project group. We were required to implement at least three fields and two methods in at least one of the objects.
+
+The functions below are implemented by us in the application:
+* **Weather Information** 
+* **Alerting system**
+* **Early Warning for people**
+* **Escape Routes for emergencies**
+* **Useful Information to prepare for the climate disaster occurences**
+
+These five functions are integrated into the `DemoApplication` class which implements the home page of our application.
+
+In this project, I have implemented the `Escape Routes for emergencies` and `DemoApplication`, supported other members to implement each function in their own class and also integrated into the home page of our application. 
