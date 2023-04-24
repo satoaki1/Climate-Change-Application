@@ -18,4 +18,3 @@ $100 billion annually by 2020 from all sources to address the needs of developin
 
 5.	Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities
 * Acknowledging that the United Nations Framework Convention on Climate Change is the primary international, intergovernmental forum for negotiating the global response to climate change.
-![image](https://user-images.githubusercontent.com/111048203/233966358-1168576b-6448-4c3d-80b1-12f0d56a38ca.png)
