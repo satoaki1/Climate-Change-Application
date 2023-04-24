@@ -5,7 +5,7 @@ This is the Java Project to build an application to tackle with the worldwide cl
 
 ## Background
 
-
+![SDGs 13th Goal](SDG13.jpg)
 
 Sustainable Development Goal 13 (SDG 13 or Goal 13) is about climate action and is one of 17 SDGs established by the United Nations in 2015. The official mission statement of this goal is to "Take urgent action to combat climate change and its impacts". There are 5 main targets of this SDG in total, all of which cover a wide range of issues surrounding climate action.
 
