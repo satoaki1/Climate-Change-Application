@@ -1,4 +1,4 @@
-# OOP Application Project
+# Climate Change Application for OOP Application Project
 
 ## Introduction
 This is the Java Project to build an application to tackle with the worldwide climate change issue.
